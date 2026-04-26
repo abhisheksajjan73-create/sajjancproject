@@ -18,5 +18,5 @@ void palindrom() {
     else
         printf("%d is not a palindrome.", original);
 
-// /   return 0;
+// /  /// return 0;
 }
